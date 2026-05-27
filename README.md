@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm DacoderDC3
 
-<!--
-**DacoderDC3/DacoderDC3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building practical cybersecurity skills through a documented homelab focused on blue-team operations, system administration, logging, SIEM monitoring, vulnerability management, and incident response.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proxmox virtualisation
+- Windows 11 administration
+- Ubuntu Linux administration
+- Network fundamentals
+- Centralised logging
+- Wazuh SIEM
+- Vulnerability scanning
+- Incident response practice
+
+## Featured Project
+
+- Cybersecurity Homelab: coming soon
+
+## Skills I'm Developing
+
+- Linux CLI
+- Windows endpoint administration
+- Log collection and analysis
+- SIEM configuration
+- Vulnerability management
+- Technical troubleshooting
+- Security documentation
+
+## Portfolio Goal
+
+This GitHub profile is used to document my cybersecurity learning journey through practical, reproducible lab work.
