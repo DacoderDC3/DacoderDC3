@@ -1,6 +1,5 @@
-Wayne Stynder
-*Personal Info redacted*
-LinkedIn: Wayne Stynder | GitHub: Wayne Stynder
+# Wayne Stynder
+- *Personal Info redacted*
 
 **Cyber Defence Analyst | SOC Monitoring & Alert Triage | SIEM & Log Analysis | CompTIA CySA+ / Security+**
 
@@ -10,7 +9,7 @@ Cyber defence-focused analyst with CompTIA CySA+, Security+, Network+ and A+ cer
 
 Currently a Navigation Services Officer, bringing 20+ years of high-reliability aviation experience across military, airline and regulated data environments. Strong transferable strengths in monitoring complex systems, recognising anomalies, following response procedures under pressure, protecting data integrity and documenting evidence clearly.
 
-Well suited to a 24/7 Cyber Defence Centre environment requiring calm monitoring, accurate evidence gathering, runbook-based response, clear shift handovers and timely escalation. Open to rotating shift work, including nights, weekends and public holidays, in support of continuous monitoring and response coverage.
+Well suited to a Cyber Defence Centre environment requiring calm monitoring, accurate evidence gathering, runbook-based response, clear shift handovers and timely escalation. 
 
 ## Cyber Defence Skills
 
